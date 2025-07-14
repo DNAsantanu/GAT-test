@@ -1,6 +1,0 @@
-{
-    "hidden_channels": 256,
-    "num_layers": 3,
-    "heads": 2,
-    "dropout": 0.012645607435582129
-}

@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/User/OneDrive/Desktop/GAT-model%20testing/GAT-test/mlruns/505885791625914316
+creation_time: 1752493042405
+experiment_id: '505885791625914316'
+last_update_time: 1752493042405
+lifecycle_stage: active
+name: GATv2_KFold
