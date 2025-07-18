@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/382101732612613880
+creation_time: 1752523164166
+experiment_id: '382101732612613880'
+last_update_time: 1752523164166
+lifecycle_stage: active
+name: GATv2_Optuna_Experiment_1

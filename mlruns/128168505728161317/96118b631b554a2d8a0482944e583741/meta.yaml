@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/OneDrive/Desktop/GAT-model%20testing/GAT-test/mlruns/128168505728161317/96118b631b554a2d8a0482944e583741/artifacts
+end_time: 1752649871792
+entry_point_name: ''
+experiment_id: '128168505728161317'
+lifecycle_stage: active
+run_id: 96118b631b554a2d8a0482944e583741
+run_name: trial_33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752649870364
+status: 4
+tags: []
+user_id: User

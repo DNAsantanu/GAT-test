@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/User/OneDrive/Desktop/GAT-model%20testing/GAT-test/mlruns/906754211394743286
+creation_time: 1752518320278
+experiment_id: '906754211394743286'
+last_update_time: 1752518320278
+lifecycle_stage: active
+name: GATv2_Optuna_Experiment

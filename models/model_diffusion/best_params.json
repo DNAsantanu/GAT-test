@@ -1,0 +1,7 @@
+{
+    "hidden_channels": 128,
+    "num_layers": 4,
+    "dropout": 0.16201263159673226,
+    "lr": 0.00022159924999032665,
+    "use_graph": false
+}
